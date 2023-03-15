@@ -61,6 +61,6 @@ main{
 }
 
 .main--list > li::marker{
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     color: #61DAFB;
 }
