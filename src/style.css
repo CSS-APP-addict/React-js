@@ -1,13 +1,11 @@
 *{
     box-sizing: border-box;
 }
-
 body{
     margin: 0;
     font-family: Inter, sans-serif;
     height: 100vh;
     background-color: #282D35;
-
 }
 
 nav{
@@ -40,6 +38,10 @@ nav{
 main{
     padding: 57px 27px;
     color: white;
+    background-image: url(../images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: auto;
 }
 
 .main--title{
