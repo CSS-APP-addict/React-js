@@ -3,11 +3,11 @@ import React from "react"
 export default function MainContent() {
     return(  
     <main>
-        <h1>What is all about</h1>
-        <ul>
-            <li>this is all</li>
-            <li>this is all</li>
-            <li>this is all</li>
+        <h1 className="main--title">What is all about REACTJS</h1>
+        <ul className="main--list">
+            <li>List Item 1</li>
+            <li>List Item 2</li>
+            <li>List Item 3</li>
         </ul>
     </main>
 ) 
